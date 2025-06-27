@@ -6,7 +6,7 @@ import portfolio3 from '../../assets/web6.png'
 
 const Project = () => {
     return (
-        <section className="project">
+        <section className="project" id='project'>
             <h3 className="project__tittle">Projects</h3>
             <div className="project__cards">
                 <div className="cards">
